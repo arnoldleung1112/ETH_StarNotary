@@ -1,8 +1,9 @@
 Smart contract creation transcation and star creation transcation:
-1. Star Creation Transaction ID:   0xf242751d4f1a1f2168f8b843a382cb4980e53386f55e77b2361cd399ed658820
-2. Star tokenId:                   1 
-3. Contract address:               0x7412f0dd80dbc28ceb1c7b97e579616553be7a8a
-4. Contract creation Tx Hash:      0xb8ea25adf1f939a59c4458618db3fd1e08628e919015ddecbeededbbc0552476
+1. Star Creation Transaction ID:   0x0cba951ff9855b8d5ccfef9ef8803f7807f2dfcfa809264883d30cc21f54189b
+2. Star tokenId:                   2
+3. star put up for sale tx :       0x78ed54378f128c61dfa65c173bd26f0d926a849a64e931ad26249d2eb15de9dd
+4. Contract address:               0x7412f0dd80dbc28ceb1c7b97e579616553be7a8a
+5. Contract creation Tx Hash:      0xb8ea25adf1f939a59c4458618db3fd1e08628e919015ddecbeededbbc0552476
 
 
 To run test script for smart contract:
